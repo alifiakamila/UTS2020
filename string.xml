@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="PROFIL_FAKULTAS">PROFIL FAKULTAS</string>
+    <string name="namafakultas">namafakultas</string>
+    <string name="name_description">namedescription</string>
+    <string name="short_description">short_description</string>
+</resources>
